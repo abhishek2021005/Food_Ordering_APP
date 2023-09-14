@@ -26,7 +26,6 @@
 8. parcel-bundler
 9. Stripe(Payment)
 10. Redux-persists
-11. 
 **## Real time restaurant data fetched from swiggy API.**
 
 
